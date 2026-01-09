@@ -19,4 +19,3 @@ public:
     std::vector<ZoneCount> topZones(int k = 10) const;
     std::vector<SlotCount> topBusySlots(int k = 10) const;
 };
-
